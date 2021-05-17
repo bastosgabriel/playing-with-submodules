@@ -1,0 +1,3 @@
+[submodule "awesome_submodule"]
+	path = awesome_submodule
+	url = git@github.com:bastosgabriel/awesome-submodule.git
